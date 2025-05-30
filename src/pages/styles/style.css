@@ -64,6 +64,10 @@ html {
   display: unset;
 }
 
+img{
+  width: 80%;
+}
+
 @media screen and (min-width: 636px) {
   .nav-links {
     margin-left: 5em;
